@@ -5,9 +5,9 @@ function Home() {
 
   return (
     <div>
-      <h1>صفحه اصلی</h1>
-      <button onClick={() => navigate('/products')}>مشاهده محصولات</button>
-<button onClick={() => navigate('/dashboard')}>ورود به داشبورد</button>
+      <h1>Main Page</h1>
+      <button onClick={() => navigate('/products')}>Watch Products</button>
+<button onClick={() => navigate('/dashboard')}>Enter to dashboard</button>
 
     </div>
   );
