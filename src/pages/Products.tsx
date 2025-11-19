@@ -1,14 +1,14 @@
 import { Link } from 'react-router-dom';
 
 const products = [
-  { id: '1', name: 'محصول اول' },
-  { id: '2', name: 'محصول دوم' },
+  { id: '1', name: 'Product one' },
+  { id: '2', name: 'Product two' },
 ];
 
 function Products() {
   return (
     <div>
-      <h2>لیست محصولات</h2>
+      <h2>Products list</h2>
       <ul>
         {products.map((p) => (
           <li key={p.id}>
