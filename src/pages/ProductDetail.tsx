@@ -5,7 +5,7 @@ function ProductDetail() {
 
   return (
     <div>
-      <h2>جزئیات محصول شماره {id}</h2>
+      <h2>Product Details for item {id}</h2>
     </div>
   );
 }
