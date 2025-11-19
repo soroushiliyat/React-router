@@ -2,6 +2,11 @@
 
 This is a practical demo project built with **React**, **Vite**, and **TypeScript** to showcase core routing concepts using `react-router-dom`. It demonstrates how a junior React developer can implement navigation, dynamic routes, and nested layouts in a clean and scalable way.
 
+##Live Demo:
+https://react-router-phi-one-74.vercel.app/
+
+
+
 ## 🔧 Technologies Used
 
 - React 18
